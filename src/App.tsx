@@ -89,8 +89,8 @@ function VaultManager({ onUnlock }: { onUnlock: () => void }) {
             <div className="p-4 bg-primary/10 rounded-full mb-4">
               <Shield className="w-10 h-10 text-primary" />
             </div>
-            <h1 className="text-2xl font-bold tracking-tight">Vault Tracker</h1>
-            <p className="text-muted-foreground text-sm mt-1">Zero-Trust Encrypted Workspace</p>
+            <h1 className="text-2xl font-bold tracking-tight">Vault Notes</h1>
+            <p className="text-muted-foreground text-sm mt-1">Standalone Secure Note Taking</p>
             <span className="text-[10px] text-muted-foreground/40 font-mono mt-2 uppercase tracking-widest">v1.1.0 Mobile + Data Import Ed.</span>
           </div>
 
@@ -233,7 +233,7 @@ function VaultManager({ onUnlock }: { onUnlock: () => void }) {
               <Shield className="w-5 h-5 text-primary" /> Security Model
             </h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              VaultTracker uses **AES-256-GCM** encryption locally in your browser. Your data never leaves your device unencrypted. Zero-trust, zero-knowledge, and 100% private.
+              Vault Notes uses **AES-256-GCM** encryption locally in your browser. Your notes never leave your device unencrypted. Zero-trust, zero-knowledge, and 100% private.
             </p>
           </div>
 
