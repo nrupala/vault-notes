@@ -1,5 +1,5 @@
 import { useMemo } from 'react';
-import { useItems, type DecryptedItem } from '@vault/core';
+import { useItems, type DecryptedItem } from '@/lib/core';
 import { BarChart3, Zap, Shield, FileText, Award } from 'lucide-react';
 import { motion } from 'framer-motion';
 
