@@ -100,5 +100,3 @@ export function AnalyticsApp({ vaultId, encryptionKey }: { vaultId: string, encr
     </div>
   );
 }
-;
-}
