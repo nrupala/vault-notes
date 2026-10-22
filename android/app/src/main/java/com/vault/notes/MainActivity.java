@@ -1,4 +1,4 @@
-package com.nrupal.vaulttracker;
+package com.vault.notes;
 
 import com.getcapacitor.BridgeActivity;
 

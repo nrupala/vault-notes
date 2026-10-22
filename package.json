@@ -70,9 +70,9 @@
     "wait-on": "^8.0.5"
   },
   "build": {
-    "appId": "com.nrupal.vaulttracker",
-    "productName": "Vault Tracker",
-    "copyright": "Copyright © 2026 Nrupal Akolkar",
+    "appId": "com.vault.notes",
+    "productName": "Vault Notes",
+    "copyright": "Copyright \u00a9 2026 Nrupal Akolkar",
     "files": [
       "dist/**/*",
       "electron/**/*",
